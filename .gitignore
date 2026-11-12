@@ -1,0 +1,16 @@
+.gradle/
+**/build/
+local.properties
+.signing/
+reference/
+artifacts/
+test-output/
+.build.local.json
+.idea/
+*.iml
+*.jks
+*.keystore
+*.p12
+*.pem
+.env
+.env.*
