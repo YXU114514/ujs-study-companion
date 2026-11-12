@@ -4,7 +4,7 @@
 
 ## 安装与第一次使用
 
-从 [Releases](https://github.com/YXU114514/ujs-study-companion/releases/latest) 下载 `江大学伴-2.0.1.apk`，支持 Android 8.0 及以上。本地构建的安装包位于 `artifacts/`，不会作为源码文件提交。本项目发布包可直接覆盖相同签名的 2.0.0 版本，保留本机数据。首次打开会进入学校官方 HTTPS WebVPN 登录页面，在网页里完成账号、密码与验证码验证。登录后依次打开个人课表和考试查询页面，取得数据后返回应用。
+从 [Releases](https://github.com/YXU114514/ujs-study-companion/releases/latest) 下载 `UJS-Companion-2.0.1.apk`，支持 Android 8.0 及以上。本地构建的安装包位于 `artifacts/`，不会作为源码文件提交。本项目发布包可直接覆盖相同签名的 2.0.0 版本，保留本机数据。首次打开会进入学校官方 HTTPS WebVPN 登录页面，在网页里完成账号、密码与验证码验证。登录后依次打开个人课表和考试查询页面，取得数据后返回应用。
 
 如果学校页已登录但停留在页面上，可点右上角“读取”。设备需要支持文档开始注入的 Android System WebView；版本过旧时应用会明确提示更新。
 
